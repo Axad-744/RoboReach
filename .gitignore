@@ -1,0 +1,13 @@
+.pio/
+tmp/
+build/
+.agents/
+
+# Compiled firmware artifacts
+*.elf
+*.bin
+*.map
+
+# Operating system files
+.DS_Store
+Thumbs.db
